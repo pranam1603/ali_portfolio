@@ -541,7 +541,7 @@ div.overflow-hidden{
 
 .contact-content-con {
   display: flex;
-  padding-top: 3.5rem;
+  padding-top: 2rem;
 }
 .contact-content-con .left-contact {
   flex: 2;
@@ -834,7 +834,6 @@ div.overflow-hidden{
   }
 
   .contact-item {
-    flex-direction: column;
     margin: 1rem 0;
   }
   .contact-item p {
